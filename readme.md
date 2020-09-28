@@ -125,6 +125,6 @@ Found an issue or would like to suggest something? Just go to [this page](https:
 
 Sponsoring this project will help and motivate me to keep improving it and making it even better for you (and the whole open-source community) who is using this package. 
 
-  - [☕️ Buy me a coffee! ($5.00)](https://paypal.me/AbtzLabs/5USD)
-  - [💰 Donate any amount - You decide 😉](https://paypal.me/AbtzLabs)
+  - [☕️ Buy me a coffee! ($5.00)]()
+  - [💰 Donate any amount - You decide 😉]()
 
